@@ -1,5 +1,5 @@
 payload:
-# Mobimon (BangDream TW)
-- DOMAIN-SUFFIX,mobimon.com.tw
-- DOMAIN-SUFFIX,gamon.net
-- DOMAIN-SUFFIX,cloudfront.net
+  # Mobimon (BangDream TW)
+  - DOMAIN-SUFFIX,mobimon.com.tw
+  - DOMAIN-SUFFIX,gamon.net
+  - DOMAIN-SUFFIX,cloudfront.net

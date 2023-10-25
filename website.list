@@ -3,3 +3,6 @@ payload:
   # python & pip
   - DOMAIN-SUFFIX,pythonhosted.org
   - DOMAIN-SUFFIX,pypi.org
+  # truenas
+  - DOMAIN-SUFFIX,truenas.net
+  - DOMAIN-SUFFIX,truenas.com

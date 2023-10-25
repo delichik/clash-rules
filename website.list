@@ -6,3 +6,5 @@ payload:
   # truenas
   - DOMAIN-SUFFIX,truenas.net
   - DOMAIN-SUFFIX,truenas.com
+
+  - DOMAIN-SUFFIX,imiku.moe

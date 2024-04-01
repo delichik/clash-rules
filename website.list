@@ -10,3 +10,8 @@ payload:
   - DOMAIN-SUFFIX,imiku.moe
 
   - DOMAIN-SUFFIX,thexem.info
+
+  # GOOGLE
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,domain:services.googleapis.cn
+  - DOMAIN-SUFFIX,domain:services.googleapis.com

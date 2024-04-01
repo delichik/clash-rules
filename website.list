@@ -13,5 +13,5 @@ payload:
 
   # GOOGLE
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,domain:services.googleapis.cn
-  - DOMAIN-SUFFIX,domain:services.googleapis.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,services.googleapis.com

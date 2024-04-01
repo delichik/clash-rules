@@ -3,3 +3,5 @@ payload:
 
   - DOMAIN-SUFFIX,hdfans.org
   - DOMAIN-SUFFIX,btschool.club
+
+  - DST-PORT,3478

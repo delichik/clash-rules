@@ -1,2 +1,5 @@
-DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,services.googleapis.com
+DOMAIN-SUFFIX,play.googleapis.cn
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,googleplay.com

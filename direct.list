@@ -3,5 +3,6 @@ payload:
 
   - DOMAIN-SUFFIX,hdfans.org
   - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,services.googleapis.cn
 
   - DST-PORT,3478

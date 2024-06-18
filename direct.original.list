@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,imiku.moe
 
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,services.googleapis.cn
+#DOMAIN-SUFFIX,rr4---sn-2x3elnes.xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 DST-PORT,3478

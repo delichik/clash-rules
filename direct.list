@@ -1,8 +1,6 @@
-payload:
-  - DOMAIN-SUFFIX,imiku.moe
+DOMAIN-SUFFIX,imiku.moe
 
-  - DOMAIN-SUFFIX,hdfans.org
-  - DOMAIN-SUFFIX,btschool.club
-  - DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,btschool.club
 
-  - DST-PORT,3478
+DST-PORT,3478

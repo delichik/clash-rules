@@ -2,6 +2,8 @@ DOMAIN-SUFFIX,imiku.moe
 
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,btschool.club
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN-SUFFIX,www.cloudflare.com
+DOMAIN-SUFFIX,cloudflare-cn.com
 
 DST-PORT,3478

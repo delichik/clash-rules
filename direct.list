@@ -1,5 +1,9 @@
 DOMAIN-SUFFIX,imiku.moe
 
+#### BEGIN tailscale derper
+DST-PORT,3478
+#### END tailscale derper
+
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,btschool.club
 
@@ -12,7 +16,6 @@ DOMAIN-SUFFIX,blog.cloudflare.com
 #### END cloudflare web dashboard
 
 #### BEGIN bt
-DST-PORT,3478
 DOMAIN,00.mercax.com
 DOMAIN,00.xxtor.com
 DOMAIN,0123456789nonexistent.com

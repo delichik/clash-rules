@@ -8,11 +8,11 @@ DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,btschool.club
 
 #### BEGIN cloudflare web dashboard
-DOMAIN-SUFFIX,dash.cloudflare.com
-DOMAIN-SUFFIX,www.cloudflare.com
-DOMAIN-SUFFIX,cloudflare-cn.com
-DOMAIN-SUFFIX,gates.cloudflare.com
-DOMAIN-SUFFIX,blog.cloudflare.com
+# DOMAIN-SUFFIX,dash.cloudflare.com
+# DOMAIN-SUFFIX,www.cloudflare.com
+# DOMAIN-SUFFIX,cloudflare-cn.com
+# DOMAIN-SUFFIX,gates.cloudflare.com
+# DOMAIN-SUFFIX,blog.cloudflare.com
 #### END cloudflare web dashboard
 
 #### BEGIN bt

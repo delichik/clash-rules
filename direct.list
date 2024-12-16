@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,imiku.moe
 
+DOMAIN,weatherapi.market.xiaomi.com
+
 #### BEGIN tailscale derper
 DST-PORT,3478
 #### END tailscale derper

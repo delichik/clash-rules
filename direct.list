@@ -17,6 +17,13 @@ DOMAIN-SUFFIX,btschool.club
 # DOMAIN-SUFFIX,blog.cloudflare.com
 #### END cloudflare web dashboard
 
+#### BEGIN DNS
+IP-CIDR,1.1.1.1/32
+IP-CIDR,1.0.0.1/32
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.4.4/32
+#### END DNS
+
 #### BEGIN bt
 DOMAIN,00.mercax.com
 DOMAIN,00.xxtor.com

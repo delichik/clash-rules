@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,tailscale.com
 #### END tailscale derper
 
 DOMAIN,weatherapi.market.xiaomi.com
+DOMAIN-SUFFIX,tu-zi.com
 
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,btschool.club

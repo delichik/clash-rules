@@ -27,7 +27,3 @@ DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,rmbgame.net
 #### END steam API
-
-### BEGIN cursor
-DOMAIN,api2.cursor.sh
-### END cursor

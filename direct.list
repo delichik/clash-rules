@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,imiku.moe
+DOMAIN-SUFFIX,ubuntu.com
+
 
 #### BEGIN tailscale derper
 DST-PORT,3478

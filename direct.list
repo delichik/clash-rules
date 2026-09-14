@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,ubuntu.com
 #### BEGIN tailscale derper
 DST-PORT,3478
 DOMAIN-SUFFIX,tailscale.com
+PROCESS-NAME,tailscaled.exe
+IP-CIDR,100.64.0.0/10
 #### END tailscale derper
 
 DOMAIN,weatherapi.market.xiaomi.com

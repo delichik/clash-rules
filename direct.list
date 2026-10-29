@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,ubuntu.com
 DST-PORT,3478
 DOMAIN-SUFFIX,tailscale.com
 PROCESS-NAME,tailscaled.exe
+PROCESS-NAME,tailscaled
 IP-CIDR,100.64.0.0/10
 #### END tailscale derper
 
